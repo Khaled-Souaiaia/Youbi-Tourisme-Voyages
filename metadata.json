@@ -1,0 +1,6 @@
+{
+  "name": "Youbi Tourisme et Voyages",
+  "description": "الموقع الرسمي لوكالة يوبي للسياحة والأسفار بعنابة - حجز الرحلات وتذاكر الطيران والعمرة والفنادق عبر واتساب مباشرة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
